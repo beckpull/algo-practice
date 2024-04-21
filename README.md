@@ -1,5 +1,3 @@
-# algo-practice
-
 <a name="readme-top"></a>
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -12,9 +10,7 @@
 
 <br />
 <div align="center">
-  <a href="https://algo-practice.onrender.com">
-
-<h1 align="center">Gastrono-Me!</h1></a>
+<h1 align="center">Personal Algorithm Practice Repository</h1></a>
 
   <p align="center">
 
