@@ -1,3 +1,28 @@
+// CHALLENGE FIVE: easy
+
+// S: SEPERATE
+// C: COMBINE
+
+// M: METHOD - ADD () TO END / BACK TO LOWER CASE AND SPACE SPERATED
+// C: CLASS - UPPERCASE FIRST LETTER / BACK TO LOWER CASE AND SPACE SEPERATED
+// V: VARIABLE - REGULAR CAMEL CASE / BACK TO LOWER CASE AND SPACE SEPERATED
+
+// input:
+// S;M;plasticCup()
+// C;V;mobile phone
+// C;C;coffee machine
+// S;C;LargeSoftwareBook
+// C;M;white sheet of paper
+// S;V;pictureFrame
+
+//output:
+// plastic cup
+// mobilePhone
+// CoffeeMachine
+// large software book
+// whiteSheetOfPaper()
+// picture frame
+
 function processData(input) {
     var inputArr = input.split(';');
     // console.log(inputArr);
