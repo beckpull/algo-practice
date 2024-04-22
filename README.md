@@ -124,7 +124,7 @@ _OR, to easily get a local copy up and running follow these simple example steps
 </br>
 
 <div align="center"> 
-
+</div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
